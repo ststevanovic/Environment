@@ -1,3 +1,4 @@
+/* eslint-disable-line import */
 import path from 'path';
 
 export default {

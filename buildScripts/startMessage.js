@@ -1,5 +1,5 @@
 // var chalk = require('chalk');
-// es6, prestart -> babel
+// es6, prestart -> babel allows use of newer synthax:
 import chalk from 'chalk';
 
 

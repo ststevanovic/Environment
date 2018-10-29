@@ -7,7 +7,10 @@
   ],
   "parseOptions": {
     "ecmaVersion":7,
-    "sourceType": "module"
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "modules": true
+    }
   },
   "env": {
     "browser":true,
