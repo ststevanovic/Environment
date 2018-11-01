@@ -1,5 +1,5 @@
 // inspect response/bundle.js line 102
-// import './index.css'
+import './index.css'
 // // inspect response/bundle.js line 63
 // import numeral from 'numeral';
 
