@@ -1,2 +1,2 @@
 # Environment
-Building JS Dev Env
+Building JS Dev Env from scratch
